@@ -1,4 +1,4 @@
-About Program
+ About Program
 
 - Check Mails Mix on valid (hotmail, online,de + a lot of popular mails)
 - Check your request on mail
@@ -10,7 +10,7 @@ About Program
 - Give valid \ no valid info
 - Proxyless \ Proxy mode
 
-❕In new version 1.1:
+❕In new version 2.6:
 - Console lags have been fixed when loading a large database
 - Many new mail verification domains have been added besides hotmail
 - Now CPM is even more 
